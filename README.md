@@ -26,9 +26,14 @@ Converts ciphered text back to dictionary-defined words.
 /
 
 /
+
+
 this simple program is tailor made for the shortest possible payload (for JS8call) but still offer a little bit of privacy.
 not AES256 military grade like my other release, but just enough to prevent normal people from decoding it.
 all words that are not found inside the dictionary are hightlighted in red for the user to see.
 
 source code in the format of a .py is provided with a pre-made .exe for quick running.
 the dictionary is already inside, but it is incomplete. more work is needed.
+
+
+"some people" will be seething, Enjoy while it last!
