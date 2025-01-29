@@ -42,6 +42,9 @@ for example 23, write it as 023. for 2 write it as 002
 -missing words? ADD THEM YOURSELF
 
 -dont trust the .exe? compile it youself!
+install python, and the module required (use notepad++ to open the .py and check them).
+use the command: pyinstaller --onefile --noconsole --icon=icon.ico --add-data "database.txt;." JackRabbitv3.py
+this is the command for the main file. for the other scripts you must change the command slightly. HAVE FUN
 
 =
 
