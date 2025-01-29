@@ -17,7 +17,7 @@ JS8call and propagation can be pretty bad at receiving and its hell sending ever
 
 
 
-i dare you! encrypt something using this, and try to decode it sucessfully even while having the correct dictionary. when you dont know the message it is almost impossible to brute force, because you get words that are making sense. so how do you know if the guy is talking about going grocery shopping or installing a new railing on his boat? TRY IT
+i dare you! encrypt something using this, and try to decode it sucessfully (without the password) even while having the correct dictionary. when you dont know the message it is almost impossible to brute force, because you get words that are making sense. imagine if you dont have neither the dictionary nor the password? how do you know if the guy is talking about going grocery shopping or installing a new railing on his boat? TRY IT
 
 
 =
