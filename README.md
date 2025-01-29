@@ -1,8 +1,6 @@
 # JackRabbit
-light encryption for ham radio, in particular JS8call. primary goal is smallest possible payload.
 
-🛠️ Feature Overview
-This application provides a GUI-based encryption and decryption tool using a Vigenère-like cipher and a customizable reference dictionary!
+🛠️ This application provides a GUI-based encryption and decryption tool using a Vigenère-like cipher and a customizable reference dictionary!
 
 ![image alt](https://github.com/HFenjoyer/JackRabbit/blob/main/example.jpg?raw=true)
 
