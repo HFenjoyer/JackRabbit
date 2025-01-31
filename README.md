@@ -16,13 +16,21 @@ no more 50characters to send "hello how are you"
 JS8call and propagation can be pretty bad at receiving and its hell sending everything again and again until the other side has it correctly. now using this JACKRABBIT unique formating and reference table the text are not only shorter then normal, but it create pretty good security!
 
 
-
-i dare you! encrypt something using this, and try to decode it sucessfully (without the password) even while having the correct dictionary. when you dont know the message it is almost impossible to brute force, because you get words that are making sense. imagine if you dont have neither the dictionary nor the password? how do you know if the guy is talking about going grocery shopping or installing a new railing on his boat? TRY IT
-
-
 =
 
-=
+Dictionary Manager:
+it is to add words into, or create your own dictionary of references. it is checking to make sure and only add unique words and to generate unique reference codes.
+
+
+![image alt](https://github.com/HFenjoyer/JackRabbit/blob/main/manager%20example.jpg?raw=true)
+
+
+
+Shuffler:
+simply mix the reference codes. it is to create your own unique set of references. so even if you have the same word list as everybody it is still unique and un-crackable.
+it will first ask you for the location of the existing dictionary, then for the location and name of the new-shuffled one. 
+
+![image alt](https://github.com/HFenjoyer/JackRabbit/blob/main/shuffler%20example.jpg?raw=true)
 
 =
 
