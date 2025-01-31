@@ -34,9 +34,6 @@ it will first ask you for the location of the existing dictionary, then for the 
 
 =
 
-source code in the format of a .py is provided with a pre-made .exe for quick running.
-
-i provide a special program to add words into the dictionary, and another to scamble the references codes.
 
 =
 
