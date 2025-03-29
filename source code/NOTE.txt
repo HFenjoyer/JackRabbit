@@ -1,0 +1,4 @@
+compiling help
+
+-install all nessesary modules
+-example command: pyinstaller --onefile --noconsole --icon=icon.ico --add-data "database.txt;." JackRabbit.py
